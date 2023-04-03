@@ -19,6 +19,6 @@
 </div>
 <div>
   <h2 align = "justified">Social</h2>
-  <a href="https://www.linkedin.com/in/thalita-de-alencar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
+  <a href="https://www.linkedin.com/in/thalita-de-alencar-1b5b5125b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
   
 </div>
