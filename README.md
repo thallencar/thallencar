@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/thalita-de-alencar-1b5b5125b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
 </div>
 
-![Snake animation](https://github.com/thallencar)
+![Snake animation](https://github.com/rafaballerini/thallencar/blob/output/github-contribution-grid-snake.svg)
