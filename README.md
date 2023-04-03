@@ -1,6 +1,7 @@
 <h1 align = "center">Hey there! I'm Thalita Alencar, nice to meet you.</h1>
 <div>
   <h2 align "justified">About me</h2>
+  <img align = "right" src= "https://media.discordapp.net/attachments/1075996497407123509/1092286281985298562/download20230400231047.png?width=130&height=140">
 <p>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning some programming and markup languages.<br>📌| Full Stack Developer.
 </div>
 <div>
@@ -20,5 +21,6 @@
 <div>
   <h2 align = "justified">Social</h2>
   <a href="https://www.linkedin.com/in/thalita-de-alencar-1b5b5125b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
-  
 </div>
+
+![Snake animation](https://github.com/thallencar)
