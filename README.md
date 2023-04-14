@@ -14,9 +14,9 @@
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
 </p>
 </div>
-<div>
-  <h2 align = "justified">GitHub Stats</h2>
-<a href = "http://www.github.com/thallencar"><img src ="https://github-readme-stats.vercel.app/api?username=thallencar&theme=react&show_icons=true&hide_border=true&count_private=true)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=react&show_icons=true&hide_border=true&layout=compact" alt="thallencar"/></p>
+<div align= "center">
+  <h2 align = "center">GitHub Stats</h2>
+<a href = "http://www.github.com/thallencar"><img height = "170em" src ="https://github-readme-stats.vercel.app/api?username=thallencar&theme=react&show_icons=true&hide_border=true&count_private=true)"><img align= "center" height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=react&show_icons=true&hide_border=true&layout=compact" alt="thallencar"/></p>
 </div>
 <div>
   <h2 align = "justified">Social</h2>
