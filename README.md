@@ -21,7 +21,6 @@
 <div>
   <h2 align = "justified">Social</h2>
   <a href="https://www.linkedin.com/in/thalita-de-alencar-1b5b5125b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
-  <a href="https://discord.com/channels/@me/1075996497407123509"  target="_blank" rel="noreferrer"><img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a>
 </div>
 
 ![Snake animation](https://github.com/thallencar/thallencar/blob/output/github-contribution-grid-snake.svg)
