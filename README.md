@@ -16,7 +16,7 @@
 </div>
 <div>
   <h2 align = "justified">GitHub Stats</h2>
-<a href = "http://www.github.com/thallencar"><img align= "left" height = "170em" src ="https://github-readme-stats.vercel.app/api?username=thallencar&theme=react&show_icons=true&hide_border=true&count_private=true)"><img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=react&show_icons=true&hide_border=true&layout=compact" alt="thallencar"/></p>
+<a href = "http://www.github.com/thallencar"><img align= "left" height = "170em" src ="https://github-readme-stats.vercel.app/api?username=thallencar&theme=react&hide_border=true&include_all_commits=false&count_private=false"<br/><img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="thallencar"/></p>
 </div>
 
 
