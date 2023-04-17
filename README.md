@@ -1,7 +1,7 @@
 <h1 align = "center">Hey there! I'm Thalita Alencar, nice to meet you.</h1>
 <div>
   <h2 align "justified">About me</h2>
-  <img align = "right" src= "https://media.discordapp.net/attachments/1075996497407123509/1097529213466198279/111.png?width=162&height=150">
+  <img align = "right" src= "https://media.discordapp.net/attachments/1075996497407123509/1097529213466198279/111.png?width=155&height=150">
 <p>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning some programming and markup languages.<br>📌| Full Stack Developer.
 </div>
 <div>
