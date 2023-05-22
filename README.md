@@ -8,7 +8,7 @@
 </div>
 <div>
   <h2 align = "justified">Skills</h2>
-<p align="justified">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,java" />
   </a>
@@ -23,9 +23,11 @@
 <div> 
   <br> <br> <br> <br> <br> <br> <br>
   <h2 align = "justified"></h2>
-    <a href="https://www.linkedin.com/in/thalita-de-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:thafalenc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/thalencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <p align="center">
+      <a href="https://www.linkedin.com/in/thalita-de-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:thafalenc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/thalencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </p>
 </div>
 
 ![Snake animation text-align = center;](https://github.com/thallencar/thallencar/blob/output/github-contribution-grid-snake.svg)
