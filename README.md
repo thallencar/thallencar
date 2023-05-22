@@ -4,7 +4,7 @@
 <div>
   <h2 align "justified">About me</h2>
   <img align = "right" src= "https://media.discordapp.net/attachments/1075996497407123509/1097529213466198279/111.png?width=120&height=120">
-<p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning some programming and markup languages.<br>📌| Full Stack Developer.
+<p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning new things every day.<br>📌| Full Stack Developer.
 </div>
 <div>
   <h2 align = "justified">Skills</h2>
