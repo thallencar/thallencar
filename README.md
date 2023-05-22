@@ -4,13 +4,15 @@
 <div>
   <h2 align "justified">About me</h2>
   <img align = "right" src= "https://media.discordapp.net/attachments/1075996497407123509/1097529213466198279/111.png?width=120&height=120">
-<p>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning some programming and markup languages.<br>📌| Full Stack Developer.
+<p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning some programming and markup languages.<br>📌| Full Stack Developer.
 </div>
 <div>
   <h2 align = "justified">Skills</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,java" />
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,java,python" />
+   <br><br>
+  
   </a>
 </p>
 </div>
@@ -26,7 +28,6 @@
   <p align="center">
       <a href="https://www.linkedin.com/in/thalita-de-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "mailto:thafalenc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/thalencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </p>
 </div>
 
