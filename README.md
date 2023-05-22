@@ -20,6 +20,14 @@
 <img align = "right"height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=react&hide_border=true&layout=compact" alt="thallencar"/></p>
 </div>
 
+<div> 
+  <br> <br> <br> <br> <br> <br> <br>
+  <h2 align = "justified"></h2>
+    <a href="https://www.linkedin.com/in/thalita-de-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:thafalenc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/thalencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 ![Snake animation text-align = center;](https://github.com/thallencar/thallencar/blob/output/github-contribution-grid-snake.svg)
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=61dafb"/>
