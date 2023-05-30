@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100"/>
 
 <h1 align = "center">Hey there! I'm Thalita Alencar, nice to meet you.</h1>
 <div>
