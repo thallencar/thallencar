@@ -29,6 +29,4 @@
   </p>
 </div>
 
-![snake gif](https://github.com/thallencar/thallencar/blob/output/github-contribution-grid-snake.svg)
-
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=61dafb"/>
