@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100"/>
 
-<h1 align = "center">Hey there! I'm Thalita Alencar, nice to meet you.</h1>
+<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=57BCDA&center=true&vCenter=true&random=false&width=635&height=50&lines=Hey+there!+I'm+Thalita+Alencar.;Nice+to+meet+you!;Full-Stack+Developer+" alt="Typing SVG" /></a></h1>
 <div>
   <h2 align "justified">About me</h2>
   <img align = "right" src= "https://media.discordapp.net/attachments/559825945918177311/1131384890395459644/prof.png?width=120&height=120">
