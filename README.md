@@ -3,7 +3,7 @@
 <h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=57BCDA&center=true&vCenter=true&random=false&width=635&height=50&lines=Hey+there!+I'm+Thalita+Alencar.;Nice+to+meet+you!;Full-Stack+Developer+" alt="Typing SVG" /></a></h1>
 <div>
   <h2 align "justified">About me</h2>
-  <img align = "right" src= "https://media.discordapp.net/attachments/1075996497407123509/1227375977617686617/prof.png?ex=66282df4&is=6615b8f4&hm=ecf94f7593b2f1aa6bf84705553feecf3a37cd58c436f7eb387b68b665805513&=&format=webp&quality=lossless&width=140&height=140">
+  <img align = "right" src= "avatar.png" width="160" height="150">
   
 <p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| I'm learning new things every day.<br>📌| Full Stack Developer.
 </div>
@@ -11,7 +11,7 @@
   <h2 align = "justified">Skills</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,python,git,figma" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,html,css,python,mysql,git,figma" />
   </a>
 </p>
 </div>
