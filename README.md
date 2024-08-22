@@ -19,8 +19,10 @@
 <div>
   <h2 align = "justified">GitHub Stats</h2>
 <a href = "http://www.github.com/thallencar"><img align= "left" height = "170em" src ="https://github-readme-stats.vercel.app/api?username=thallencar&theme=holi&title_color=3467eb&text_color=f7f7f7&bg_color=161b2e&icon_color=3467eb&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
-<img align = "right"height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=holi&title_color=3467eb&text_color=f7f7f7&bg_color=161b2e&hide_border=true&layout=compact" alt="thallencar"/></p>
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align = "right" height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallencar&theme=holi&title_color=3467eb&text_color=f7f7f7&bg_color=161b2e&hide_border=true&layout=compact" alt="thallencar" />
+</a>
 
 <div> 
   <br> <br> <br> <br> <br> <br> <br>
