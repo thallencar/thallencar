@@ -12,7 +12,7 @@
   <h2 align = "justified">Skills</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,html,css,python,mysql,git,figma" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,html,css,python,mysql,mongodb,git,figma" />
   </a>
 </p>
 </div>
