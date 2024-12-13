@@ -6,7 +6,7 @@
   <h2 align "justified">About me</h2>
   <img align = "right" src= "avatar.png" width="130" height="130">
   
-<p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| I'm currently studying Software Development at FIAP.<br>🌱| Learning new things every day.<br>📌| Fullstack Developer.
+<p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| Graduated in Software Development at FIAP.<br>🌱| Learning new things every day.<br>📌| Fullstack Developer.
 </div>
 <div>
   <h2 align = "justified">Skills</h2>
