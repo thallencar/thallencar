@@ -6,13 +6,13 @@
   <h2 align "justified">About me</h2>
   <img align = "right" src= "avatar.png" width="140" height="130">
   
-<p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| Graduated in Software Development at FIAP.<br>🌱| Learning new things every day.<br>📌| Quality Engineer & Fullstack Developer.
+<p><br>💡| I'm a curious person, that explore as many technological areas as I can.<br>📚| Graduated in Software Development at FIAP.<br>🌱| Learning new things every day.<br>📌| Software & Quality Engineer
 </div>
 <div>
   <h2 align = "justified">Skills</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,html,css,java,spring,python,mysql,mongodb,git,figma" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,angular,js,ts,java,spring,python,mysql,mongodb,git,figma" />
   </a>
 </p>
 </div>
